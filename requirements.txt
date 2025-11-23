@@ -1,3 +1,11 @@
 reflex==0.8.20
 google-genai
 pillow
+PyGithub
+openai
+reflex-google-auth
+psycopg[binary]>=3.1.8
+geoalchemy2>=0.18
+pymysql>=1.1.2
+aiomysql>=0.2.0
+cryptography>=46
