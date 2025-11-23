@@ -1,0 +1,5 @@
+{
+  "name": "Jerseyswap",
+  "description": "A comprehensive AI-powered web app for sports fans. Swap jerseys on player photos, generate unique sports imagery, get expert analysis from an AI coach, analyze game photos, and get the latest sports news with Google Search grounding. All powered by the Gemini API.",
+  "requestFramePermissions": []
+}
